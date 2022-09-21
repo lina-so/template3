@@ -58,7 +58,7 @@ ul{
 }
 .Narrow  .Narrow-item:nth-child(1)
 {
-	background-image: url(../Images/work-1.jpg);
+	background-image: url(../images/work-1.jpg);
     height: 470px;
     background-size: cover;
     position: relative;
@@ -87,7 +87,7 @@ ul{
 /*slider secyion*/
 .slider
 {
-	background-image: url('../Images/intro.jpg');
+	background-image: url('../images/intro.jpg');
 	height: 320px;
 	background-attachment: fixed;
 	margin:120px 0 0 0;
